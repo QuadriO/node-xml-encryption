@@ -1,5 +1,5 @@
 {
-  "name": "xml-encryption",
+  "name": "@quadrio-ext/xml-encryption",
   "version": "3.0.2",
   "devDependencies": {
     "mocha": "^7.1.2",
