@@ -1,6 +1,9 @@
 {
   "name": "@quadrio/xml-encryption",
-  "version": "3.0.3",
+  "version": "3.0.4",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "mocha": "^7.1.2",
     "should": "^11.2.1",
